@@ -1,0 +1,28 @@
+BASIC CONCEPTS ASSIGNMENT
+
+1. Write a helloword program in python
+
+2. write a program that asks the user for two integer input and print the
+sum
+
+3. write a program that finds and displays the remainder of 12, 21, 67
+and 97 when divided by 7
+
+4. Write a program to evaluate the following expressions.
+a. 25 / 3 b.20 - 12 / 4 * 2 c. 32 % 7 d. 3 - 5 % 7
+g. 17 + (5 % 2) - 3  h. 15.0 + 3.0 * (2.0 / 5.0)
+
+5. Write python program that makes use of 3 variables, type casting and
+inplace operation
+
+6. write a python program to find the average of 62, 213.5, 67 and 97.7
+
+7. write a python program to find the average of five integers and display the average (Take integers from user and Display only the integer part of the result)
+
+8. Write a program that prompts the user to input a decimal number and
+outputs the number to the nearest integer.
+
+9. write a program that takes input from the user as kilogram. convert
+the kilogram to gram and display the result
+
+10. write a program to compute the area of a circle, taking the radius from the user. Display the radiu, and the area (pi = 3.142)

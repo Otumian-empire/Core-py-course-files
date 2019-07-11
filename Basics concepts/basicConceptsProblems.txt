@@ -1,0 +1,70 @@
+If you are reading this write up, it means you are preparing yourself for the next level of the course. 
+Questions here are to equip you and help you develop some sense of problem solving skill
+
+A. Write a program that calculates and displays the :
+
+1. average of {1,2,3,4,5,6,7,8,9,0} (make sure that they are 10 in number)
+
+2. area of a circle of radius, 10cm (use str so that you can add the cm to the result, 
+the value of pi = 22/7)
+
+3. perimeter and area of a rectangle of length, 14cm and breadth, 8cm
+
+4. simple interest on $2000.00 for 10years at 5% (5% = 5/100 = 0.05)
+
+5. the age of a person born in 1957 and diplay, "1957 borns are age(this is the result) years old"
+
+6. 3x^2-2x+5, where x = 2 (use the pow function at x^2, where x is the base, 2 the exponent)
+
+7. remainder of  61, 123, 345, 712 and 415 when divided by 6
+
+8. remainder of sum of { 61, 123, 345, 712, 415} when divided by 6
+
+B. here you take input from the user to solve the above problems in A from 1 - 8
+
+C. This problems is for you to dig deep.. Make use of a friend or google
+These are carefully selected questions to increase your problem solving skill
+
+1. Write a program that prompts the user to input a length expressed in cen-
+timeters. The program should then convert the length to inches (to the nearest
+inch) and output the length expressed in yards, feet, and inches, in that order.
+For example, suppose the input for centimeters is 312. To the nearest inch, 312
+centimeters is equal to 123 inches. 123 inches would thus be output as:
+3 yard(s), 1 feet (foot), and 3 inch(es).
+
+2. One metric ton is approximately 2205 pounds. Write a program that
+prompts the user to input the amount of rice, in pounds, in a bag. The
+program outputs the number of bags needed to store one metric ton of rice
+
+3. Write a program that prompts the user to enter the weight of a person in
+kilograms and outputs the equivalent weight in pounds. Output both the
+weights rounded to two decimal places. (Note that 1 kilogram = 2.2 pounds.) 
+Format your output with two decimal places.
+
+4. Three employees in a company are up for a special pay increase. You are
+given a file, say Ch3_Ex8Data.txt, with the following data:
+
+Miller Andrew  65789.87  5
+Green Sheila  75892.56  6
+Sethi Amit  74900.50  6.1
+
+Each input line consists of an employee’s last name, first name, current salary,
+and percent pay increase. For example, in the first input line, the last name of
+the employee is
+Miller, the first name is Andrew, the current salary is 65789.87, and pay increase is
+5%. Write a program that reads data from the specified file and stores the output in the file
+Ch3_Ex8Output.dat.
+
+For each employee, the data must be output in the following form:
+firstName lastName updatedSalary. Format the output of decimal numbers to two decimal places.
+
+5. Write a program that accepts as input the mass, in grams, and density, in
+grams per cubic centimeters, and outputs the volume of the object using the formula:
+density = mass / volume. Format your output to two decimal places.
+
+GOOD CODING
+
+
+if there was a concept that you didn't get well, i will encourage you to watch the video again or 
+use google to find information on that topic. Remember as a programmer, one skill that would make 
+you standout is how use make you of your searching skill

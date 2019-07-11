@@ -1,0 +1,22 @@
+If you are reading this write up, it means you are preparing yourself for the next level of the course. Questions here are to equip you and help you develop some sense of problem solving skill
+
+A. Write a program that calculates the :
+
+    1. average of {1,2,3,4,5,6,7,8,9,0} (make sure that they are 10 in number)
+
+    2. area of a circle of radius, 10cm (use str so that you can add the cm to the result, the value of pi = 22/7)
+
+    3. perimeter and area of a rectangle of length, 14cm and breadth, 8cm
+
+    4. simple interest on $2000.00 for 10years at 5% (5% = 5/100 = 0.05)
+
+    5. the age of a person born in 1957 and diplay, "1957 borns are age(this is the result) years old"
+
+    6. 3x^2-2x+5, where x = 2 (use the pow function at x^2, where x is the base, 2 the exponent)
+
+    7. remainder of  61, 123, 345, 712 and 415 when divided by 6
+
+    8. remainder of sum of { 61, 123, 345, 712, 415} when divided by 6
+
+B. here you take input from the user to solve the above problems
+if there was a concept that you didn't get well, i will encourage you to watch the video again or use google to find information on that topic. Remember as a programmer, one skill that would make you standout is how use make you of your searching skill

@@ -1,0 +1,39 @@
+Introduction to functions in python
+
+
+What is a function?
+:A function is a collection statements or unit of code that performs a specific task
+:Example is the print() function
+
+
+greet
+get name
+output name
+
+Why do you have to know about a function?
+:Functions make our codes cleaner and reduces the code size (DRY)
+:Functions can be reused in our program by just calling instructions
+
+
+How to create a function?
+:def name():
+    code
+
+NB: Create a function before you call it
+
+
+Functions with parameters?
+def name(parameters):
+    code
+
+
+Return a value from a function
+def name(param):
+    code
+    return something
+
+
+comment : #
+/doc String """  """
+
+The end
